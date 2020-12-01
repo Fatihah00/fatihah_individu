@@ -1,0 +1,8 @@
+[1106/114334.459:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1128/180029.179:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1129/175950.972:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1129/221812.928:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fffb02f8d30 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1130/154721.813:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1130/222016.162:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fffb037ffa8 of 36 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1130/222016.183:WARNING:pe_image_reader.cc(191)] could not read debug directory from C:\WINDOWS\System32\shlwapi.dll
+[1130/222018.416:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fffb038e2c8 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
